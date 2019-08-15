@@ -62,7 +62,7 @@ gulp.task('sass', function () {
 });
 
 /*
-*   Priyanka Malviya
+*   Naushad Warsi
  */
 
 gulp.task('jade', function(){
